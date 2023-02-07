@@ -1,9 +1,8 @@
-First Practical
-Second Practical
+#Software Engineering Methods
 
 ![workflow](https://github.com/cormack15/sem/actions/workflows/main.yml/badge.svg)
 
-https://img.shields.io/github/actions/workflow/status/cormack15/sem/main.yml?branch=develop
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/cormack15/sem/main.yml?branch=develop)
 
 [![LICENSE](https://img.shields.io/github/license/cormack15/sem.svg?style=flat-square)](https://github.com/cormack15/sem/blob/master/LICENSE)
 
